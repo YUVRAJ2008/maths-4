@@ -1,0 +1,23 @@
+body{
+    background-image: url(Picture1.png);
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+label{
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+}
+h2, h5{
+    color: aliceblue;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
